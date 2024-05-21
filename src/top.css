@@ -1,0 +1,17 @@
+
+.hd___r{
+    max-width: 1200px;
+    height: 100px;
+    margin: 0 auto !important;
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    height: 27px;
+    cursor: pointer;
+}
+
+.two{
+    margin-left: 2em;
+}   
